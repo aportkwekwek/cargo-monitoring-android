@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="layoutGoal" type="id" />
+    <item name="layoutLocation" type="id" />
+    <item name="layoutMessage" type="id" />
+    <item name="layoutEmergency" type="id" />
+</resources>
